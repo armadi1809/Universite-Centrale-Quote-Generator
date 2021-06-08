@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Universite-Centrale-Quote-Generator/static/css/main.5c09e979.chunk.css",
+    "main.js": "/Universite-Centrale-Quote-Generator/static/js/main.97a2e29d.chunk.js",
+    "main.js.map": "/Universite-Centrale-Quote-Generator/static/js/main.97a2e29d.chunk.js.map",
+    "runtime-main.js": "/Universite-Centrale-Quote-Generator/static/js/runtime-main.7afa0955.js",
+    "runtime-main.js.map": "/Universite-Centrale-Quote-Generator/static/js/runtime-main.7afa0955.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/Universite-Centrale-Quote-Generator/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.54565c7a.chunk.js": "/Universite-Centrale-Quote-Generator/static/js/2.54565c7a.chunk.js",
+    "static/js/2.54565c7a.chunk.js.map": "/Universite-Centrale-Quote-Generator/static/js/2.54565c7a.chunk.js.map",
+    "static/js/3.82ecbeb8.chunk.js": "/Universite-Centrale-Quote-Generator/static/js/3.82ecbeb8.chunk.js",
+    "static/js/3.82ecbeb8.chunk.js.map": "/Universite-Centrale-Quote-Generator/static/js/3.82ecbeb8.chunk.js.map",
+    "index.html": "/Universite-Centrale-Quote-Generator/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/Universite-Centrale-Quote-Generator/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.5c09e979.chunk.css.map": "/Universite-Centrale-Quote-Generator/static/css/main.5c09e979.chunk.css.map",
+    "static/js/2.54565c7a.chunk.js.LICENSE.txt": "/Universite-Centrale-Quote-Generator/static/js/2.54565c7a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Universite-Centrale-Quote-Generator/static/media/UC.04cffe64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afa0955.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.54565c7a.chunk.js",
+    "static/css/main.5c09e979.chunk.css",
+    "static/js/main.97a2e29d.chunk.js"
+  ]
+}
