@@ -1,0 +1,28 @@
+#root, html, body {
+  margin: 0;
+  padding:0;
+  height:100vh;
+  box-sizing: border-box;
+}
+
+.App {
+  height: 100%;
+  background: url('./UC.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.adviceBox{
+  background: whitesmoke;
+  width: 50%;
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius:25px;
+  padding:2%;
+}
